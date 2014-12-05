@@ -116,6 +116,10 @@ class nodejs(
       }
     }
 
+    'CentOS': {
+      # CentOS installs npm with the nodejs package.
+    }
+
     'Archlinux': {
       # Archlinux installes npm with the nodejs package.
     }
